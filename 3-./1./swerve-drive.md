@@ -48,7 +48,7 @@ Swerve Drive는 FTC에서는 많이 등장하지 않는 구동계이다.  FRC에
 
 ## Swerve Drive 제작을 위한 자료
 
-1. 14779 Swerve Drivetrains 제작을 위한 자료
+### 1. 14779 Swerve Drivetrains 제작을 위한 자료
 
 * PDF 자료
 
@@ -60,7 +60,7 @@ Swerve Drive는 FTC에서는 많이 등장하지 않는 구동계이다.  FRC에
 
 
 
-2. 7643 Tungsten Tigers 팀의 Swerve 자료
+### 2. 7643 Tungsten Tigers 팀의 Swerve 자료
 
 * Parts List
 * 3D Modeling
@@ -68,7 +68,7 @@ Swerve Drive는 FTC에서는 많이 등장하지 않는 구동계이다.  FRC에
 
 {% file src="../../.gitbook/assets/FTC-Swerve-Drive-main.zip" %}
 
-3. TerraVoxel 팀의 3D 모델링 자료
+### 3. TerraVoxel 팀의 3D 모델링 자료
 
 {% embed url="https://cad.onshape.com/documents/ffd32d9fd1db9098dadf736d/w/14e9b3df6e8e7b7e5583281f/e/e1798281b61faf96b992108a" %}
 
