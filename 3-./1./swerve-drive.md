@@ -72,4 +72,8 @@ Swerve Drive는 FTC에서는 많이 등장하지 않는 구동계이다.  FRC에
 
 {% embed url="https://cad.onshape.com/documents/ffd32d9fd1db9098dadf736d/w/14e9b3df6e8e7b7e5583281f/e/e1798281b61faf96b992108a" %}
 
-4. 1
+### 4. Robocorns Swerve 3D
+
+<div align="left" data-full-width="false"><figure><img src="../../.gitbook/assets/image.png" alt="" width="290"><figcaption></figcaption></figure></div>
+
+{% embed url="https://cad.onshape.com/documents/08ac96ccee9f300da6cbe448/w/d34ce726c716dcf16861d0bc/e/c3b612e26fffa64a79837037?renderMode=0&uiState=68d76c3f2cec9bacc363daee" %}
